@@ -1,4 +1,4 @@
-- 👋 Hi, Paulo Gabriel
+- 👋 Hi, eu em chamo Paulo Gabriel
 - 👀 I’m interested in Aprender coisas novas e divulgar  meus projetoss
 - 🌱 I’m currently learning Logica De Programação Orientada a  um Objeto
 - 💞️ I’m looking to collaborate on ...
